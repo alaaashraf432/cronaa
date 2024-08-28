@@ -1,0 +1,118 @@
+
+body{
+    background-color: white;
+    color: #000
+}
+
+.navbar-brand img{
+    max-width: 60px;
+}
+
+#disease{
+    width: 500px;
+    max-width: 100%;
+    
+}
+
+.first{
+    padding-top: 25px;
+}
+
+.third img{
+    width: 450px;
+    max-width: 100%;
+}
+
+.fourth img{
+    width: 100px;
+    max-width: 100%;
+}
+
+.fifth img{
+    border-radius: 50%;
+    width: 150px;
+    max-width: 100%;
+}
+
+.seventh img{
+    border-radius: 50%;
+    width: 100px;
+    max-width: 100%;
+}
+
+#navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.first,.third,.fifth,.seventh,.nineth
+{
+    background-color:antiquewhite ;
+}
+
+.second,.fourth,.sixth,.eight,.last{
+    background-color: lavenderblush;
+}
+.span-one{
+    color: crimson;
+}
+
+.span-two{
+    color: violet;
+}
+
+p{
+    font-weight: 700;
+}
+
+.p-one{
+    color: #000;
+}
+
+.p-two{
+    color: #000;
+}
+
+.he1{
+    color: chocolate;
+}
+
+.he2{
+    color: #333;
+}
+
+.he3{
+    color: var(--heading-color-light-three);
+}
+footer{
+    background-color: #e9f9f4;
+    color: #fff;
+}
+footer ul{
+    list-style: none;
+    padding: 0;
+}
+footer a{
+    text-decoration: none;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+
+#scroll-button{
+    position: fixed;
+    right: 20px;
+    bottom: 25px;
+    background-color: rgba(33, 184, 211, 0.851);
+    border: none;
+    border-radius: 50%;
+    
+}
+
+#scroll-button img{
+    width: 25px;
+    height: 30px;
+}
